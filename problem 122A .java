@@ -19,6 +19,8 @@ public class Main{
        // check divisibillity .
          if(num % arr[i]== 0){
              m=true;
+             break;
+             // Add break to stop the loop after finding a lucky divisor
          }
      }
      if(m){
