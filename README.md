@@ -1,2 +1,4 @@
 # My-projects
-muy solutions for codeforces problems using  java and C++ .
+my solutions for codeforces problems using  java and C++ .
+Author: Mahmoud Hussein
+Informatics Engineering Student
