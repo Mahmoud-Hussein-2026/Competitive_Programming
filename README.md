@@ -11,3 +11,5 @@ Informatics Engineering Student
 | 4 | George and Accommodation  | 800 | [link of the problem](https://codeforces.com/problemset/problem/467/A) | [MyCode](./problem%20467A%20.java) |
 | 5 | Calculating Function      | 800 | [link of the problem](https://codeforces.com/problemset/problem/486/A) | [MyCode](./problem%20486A%20.java) |
 | 6 | Soldier and Bananas       | 800 | [link of the problem](https://codeforces.com/problemset/problem/546/A) | [MyCode](./problem%20546A%20.java) | 
+| 7 | Beautiful Matrix          | 800 | [link of the problem](https://codeforces.com/problemset/problem/263/A) | [MyCode](./problem%20263A%20.java) | 
+
