@@ -1,10 +1,12 @@
 import java.util.Scanner;
 /*
+* Univercity : Damascus univercity .
+* Author : Mahmoud Hussein .
 * This program calculates the sum of a specific sequence where odd numbers are subtracted 
 * and even numbers are added .
 * instead of using a slow loop , it uses a constant time mathematical formula .
 * if n is even , result is n/2 . if n is odd , result is (-(n+1)/2) .
-* Author : MAHMOUD HUSSEIN .
+* Broblem : 486A_Calulating Function .
 */
 public class Main{
     public static void main(String[]args){
@@ -16,5 +18,6 @@ public class Main{
             else{
                 System.out.println(-(n+1)/2);
             }
+        in.close();
     }
 }
