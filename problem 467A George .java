@@ -1,8 +1,11 @@
 import java.util.Scanner;
 /*
+* Auther : Mahmoud Hussein .
+* University : Damascus university .
 * this program determines how many dormitory rooms are available for George and Alix .
 * it calculates the difference between total capacity and current occupancy to find 
 * rooms with at least two vacant spaces .
+* Broblem : 467A_George and Accommodati on .
 */
 public class Main{
     public static void main(String[]args){
@@ -21,5 +24,6 @@ public class Main{
             
         }
         System.out.println("total suitable rooms : "+counter);
+        in.close();
     }
 }
