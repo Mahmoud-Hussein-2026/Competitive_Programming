@@ -1,4 +1,4 @@
-# My-projects
+# Competitive_Programming
 my solutions for codeforces problems using  java , I am Mahmoud Hussein a first year Informatics Engineering student at Damascus University .                       My Strategy Analyze:
 Read carefully and understand the limits.
 Plan: Find the logic before writing code.
