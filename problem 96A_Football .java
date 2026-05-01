@@ -3,7 +3,7 @@ import java.util.Scanner;
 * University : Damascus University .
 * Faculty : Informatics Engineering .
 * Author : Mahmoud Hussein .
-* problem : 96A_c  .
+* problem : 96A_Football .
 * Logic : Check if either team has 7 or more players standing in a row  .
 * Data : 1 / 5 / 2026 .
 * Site : Codeforces .
