@@ -12,11 +12,11 @@ public class Main{
          }
          if(d==5){
              System.out.println("YES");
-           break;
+           return;
          }
-         else{
+     }
+         
              System.out.println("NO");
-         }
          
 }
 }
