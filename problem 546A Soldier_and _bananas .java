@@ -1,8 +1,10 @@
 import java.util.Scanner;
 /*
-* codeforces problem 546A : soldier and bananas.
+* Author : Mahmoud Hussein .
+* Univercity : Damascus Univercity .
+* Broblem : 546A_ soldier and bananas.
 * this program calculates the amount of money a soldier needs to borrow
-to buy a certain number of bananas .
+* to buy a certain number of bananas .
 */  
 public class Main {
     public static void main(String[] args) {
