@@ -13,4 +13,4 @@ Informatics Engineering Student
 | 6 | Soldier and Bananas       | 800 | [link of the problem](https://codeforces.com/problemset/problem/546/A) | [MyCode](./problem%20546A%20.java) | 
 | 7 | Beautiful Matrix          | 800 | [link of the problem](https://codeforces.com/problemset/problem/263/A) | [MyCode](./problem%20263A%20.java) | 
 | 8 | Chat room                 |1000 | [link of the problem](https://codeforces.com/problemset/problem/58/A)  | [MyCode](./problem%2058A%20.java)  |
-| 9 | Chat room                 | 900 | [link of the problem](https://codeforces.com/problemset/problem/96/A)  | [MyCode](./problem%2096A%20.java)  |
+| 9 | Football                  | 900 | [link of the problem](https://codeforces.com/problemset/problem/96/A)  | [MyCode](./problem%2096A%20.java)  |
