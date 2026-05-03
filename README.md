@@ -17,4 +17,5 @@ Refine: Improve the code and add comments
 | 7 | Beautiful Matrix         | 800 | [link of the problem](https://codeforces.com/problemset/problem/263/A) | [MyCode](./problem%20263A_Beautiful_Matrix%20.java) | 
 | 8 | Chat room                |1000 | [link of the problem](https://codeforces.com/problemset/problem/58/A)  | [MyCode](./problem%2058A_Chat_room%20.java)       |
 | 9 | Football                 | 900 | [link of the problem](https://codeforces.com/problemset/problem/96/A)  | [MyCode](./problem%2096A_Football%20.java)        |
-| 9 | Twins                    | 900 | [link of the problem](https://codeforces.com/problemset/problem/160/A)  | [MyCode](./problem%20160A_Twins%20.java)        |
+| 10 | Twins                    | 900 | [link of the problem](https://codeforces.com/problemset/problem/160/A)  | [MyCode](./problem%20160A_Twins%20.java)        |
+| 11 | Even Odds                    | 900 | [link of the problem](https://codeforces.com/problemset/problem/318/A)  | [MyCode](./problem%20318A_Even_Odds%20.java)        |
