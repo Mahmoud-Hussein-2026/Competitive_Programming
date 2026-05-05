@@ -21,5 +21,5 @@ Refine: Improve the code and add comments
 | 11 | Even Odds                    | 900 | [link of the problem](https://codeforces.com/problemset/problem/318/A)  | [MyCode](./problem%20318A_Even_Odds%20.java)        |
 | 12 |  horseshoe                  | 800 | [link of the problem](https://codeforces.com/problemset/problem/228/A)  | [MyCode](./problem%20228A_horseshoe%20.java)        |
 | 13 | Fast_Mathematician                  | 800 | [link of the problem](https://codeforces.com/problemset/problem/61/A)  | [MyCode](./problem%2061A_Fast_Mathematician%20.java)        |
-| 14 | Hulk                  | 800 | [link of the problem](https://codeforces.com/problemset/problem/705/A)  | [MyCode](./problem%20507A_Hulk%20.java)        |
+| 14 | Hulk                  | 800 | [link of the problem](https://codeforces.com/problemset/problem/705/A)  | [MyCode](./problem%20705A_Hulk%20.java)        |
 
