@@ -19,4 +19,5 @@ Refine: Improve the code and add comments
 | 9 | Football                 | 900 | [link of the problem](https://codeforces.com/problemset/problem/96/A)  | [MyCode](./problem%2096A_Football%20.java)        |
 | 10 | Twins                    | 900 | [link of the problem](https://codeforces.com/problemset/problem/160/A)  | [MyCode](./problem%20160A_Twins%20.java)        |
 | 11 | Even Odds                    | 900 | [link of the problem](https://codeforces.com/problemset/problem/318/A)  | [MyCode](./problem%20318A_Even_Odds%20.java)        |
-| 12 |   horseshoe                  | 800 | [link of the problem](https://codeforces.com/problemset/problem/228/A)  | [MyCode](./problem%20228A_horseshoe%20.java)        |
+| 12 |  horseshoe                  | 800 | [link of the problem](https://codeforces.com/problemset/problem/228/A)  | [MyCode](./problem%20228A_horseshoe%20.java)        |
+| 13 | Fast_Mathematician                  | 800 | [link of the problem](https://codeforces.com/problemset/problem/61/A)  | [MyCode](./problem%2061A_Fast_Mathematician%20.java)        |
