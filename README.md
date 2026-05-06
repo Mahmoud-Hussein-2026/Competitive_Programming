@@ -22,4 +22,5 @@ Refine: Improve the code and add comments
 | 12 |  horseshoe                  | 800 | [link of the problem](https://codeforces.com/problemset/problem/228/A)  | [MyCode](./problem%20228A_horseshoe%20.java)        |
 | 13 | Fast_Mathematician                  | 800 | [link of the problem](https://codeforces.com/problemset/problem/61/A)  | [MyCode](./problem%2061A_Fast_Mathematician%20.java)        |
 | 14 | Hulk                  | 800 | [link of the problem](https://codeforces.com/problemset/problem/705/A)  | [MyCode](./problem%20705A_Hulk%20.java)        |
+| 15 | Pangram               | 800 | [link of the problem](https://codeforces.com/problemset/problem/520/A)  | [MyCode](./problem%20520A_Pangram%20.java)        |
 
