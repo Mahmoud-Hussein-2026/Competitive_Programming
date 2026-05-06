@@ -23,4 +23,4 @@ Refine: Improve the code and add comments
 | 13 | Fast_Mathematician                  | 800 | [link of the problem](https://codeforces.com/problemset/problem/61/A)  | [MyCode](./problem%2061A_Fast_Mathematician%20.java)        |
 | 14 | Hulk                  | 800 | [link of the problem](https://codeforces.com/problemset/problem/705/A)  | [MyCode](./problem%20705A_Hulk%20.java)        |
 | 15 | Pangram               | 800 | [link of the problem](https://codeforces.com/problemset/problem/520/A)  | [MyCode](./problem%20520A_Pangram%20.java)        |
-
+| 16 | Divisibility_problem        | 800 | [link of the problem](https://codeforces.com/problemset/problem/1328/A)  | [MyCode](./problem%201328A_Divisibility%20.java)        |
