@@ -24,5 +24,5 @@ Refine: Improve the code and add comments
 | 14 | Hulk                  | 800 | [link of the problem](https://codeforces.com/problemset/problem/705/A)  | [MyCode](./problem%20705A_Hulk%20.java)        |
 | 15 | Pangram               | 800 | [link of the problem](https://codeforces.com/problemset/problem/520/A)  | [MyCode](./problem%20520A_Pangram%20.java)        |
 | 16 | Divisibility problem        | 800 | [link of the problem](https://codeforces.com/problemset/problem/1328/A)  | [MyCode](./problem%201328A_Divisibility_problem%20.java)        |
-| 17 |  Queue at the School       | 800 | [link of the problem](https://codeforces.com/problemset/problem/266/B)  | [MyCode](./problem%20266B_Queue at the School%20.java)        |
+| 17 |  Queue at the School       | 800 | [link of the problem](https://codeforces.com/problemset/problem/266/B)  | [MyCode](./problem%20266B_Queue_School%20.java)        |
 
