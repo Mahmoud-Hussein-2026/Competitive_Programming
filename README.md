@@ -26,4 +26,5 @@ Refine: Improve the code and add comments
 | 16 | Divisibility problem        | 800 | [link of the problem](https://codeforces.com/problemset/problem/1328/A)  | [MyCode](./problem%201328A_Divisibility_problem%20.java)        |
 | 17 |  Queue at the School       | 800 | [link of the problem](https://codeforces.com/problemset/problem/266/B)  | [MyCode](./problem%20266B_Queue_School%20.java)        |
 | 18 |  String Task        | 800 | [link of the problem](https://codeforces.com/problemset/problem/118/A)  | [MyCode](./problem%20118A_String_task%20.java)        |
+| 19 |  HQ9+       | 800 | [link of the problem](https://codeforces.com/problemset/problem/133/A)  | [MyCode](./problem%20133A_HQ9+%20.java)        |
 
