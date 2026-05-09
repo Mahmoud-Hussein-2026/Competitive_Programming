@@ -28,4 +28,4 @@ Refine: Improve the code and add comments
 | 18 |  String Task        | 800 | [link of the problem](https://codeforces.com/problemset/problem/118/A)  | [MyCode](./problem%20118A_String_task%20.java)        |
 | 19 |  HQ9+       | 800 | [link of the problem](https://codeforces.com/problemset/problem/133/A)  | [MyCode](./problem%20133A_HQ9+%20.java)        |
 | 20 |  Gravity flip       | 900 | [link of the problem](https://codeforces.com/problemset/problem/405/A)  | [MyCode](./problem%20405A_Gravity_flip%20.java)        |
-
+| 21 |  Arrival of the General       | 800 | [link of the problem](https://codeforces.com/problemset/problem/144/A)  | [MyCode](./problem%20144A_Arrival_of_the_General%20.java)        |
