@@ -29,3 +29,5 @@ Refine: Improve the code and add comments
 | 19 |  HQ9+       | 800 | [link of the problem](https://codeforces.com/problemset/problem/133/A)  | [MyCode](./problem%20133A_HQ9+%20.java)        |
 | 20 |  Gravity flip       | 900 | [link of the problem](https://codeforces.com/problemset/problem/405/A)  | [MyCode](./problem%20405A_Gravity_flip%20.java)        |
 | 21 |  Arrival of the General       | 800 | [link of the problem](https://codeforces.com/problemset/problem/144/A)  | [MyCode](./problem%20144A_Arrival_of_the_General%20.java)        |
+| 22 | I Wanna Be the Guy        | 800 | [link of the problem](https://codeforces.com/problemset/problem/469/A)  | [MyCode](./problem%20469A_I_Wanna_Be_the_Guy%20.java)        |
+
