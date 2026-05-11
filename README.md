@@ -30,5 +30,5 @@ Refine: Improve the code and add comments
 | 20 |  Gravity flip       | 900 | [link of the problem](https://codeforces.com/problemset/problem/405/A)  | [MyCode](./problem%20405A_Gravity_flip%20.java)        |
 | 21 |  Arrival of the General       | 800 | [link of the problem](https://codeforces.com/problemset/problem/144/A)  | [MyCode](./problem%20144A_Arrival_of_the_General%20.java)        |
 | 22 | I Wanna Be the Guy        | 800 | [link of the problem](https://codeforces.com/problemset/problem/469/A)  | [MyCode](./problem%20469A_I_Wanna_Be_the_Guy%20.java)        |
-| 23 |  Translation       | 800 | [link of the problem](https://codeforces.com/problemset/problem/469/A)  | [MyCode](./problem%2041A_Translation%20.java)     
+| 23 |  Translation       | 800 | [link of the problem](https://codeforces.com/problemset/problem/41/A)  | [MyCode](./problem%2041A_Translation%20.java)     
 
