@@ -36,5 +36,6 @@ Refine: Improve the code and add comments
 | 26 | Anton_and_Letters        | 800 | [link of the problem](https://codeforces.com/problemset/problem/443/A)  | [MyCode](./Level_800/problem%20443A_Anton_and_Letters%20.java) |
 | 27 |  Anton_and_Polyhedrons       | 800 | [link of the problem](https://codeforces.com/problemset/problem/785/A)  | [MyCode](./Level_800/problem%20785A_Anton_and_Polyhedrons%20.java) |
 | 28 |  Registration_System       | 1300 | [link of the problem](https://codeforces.com/problemset/problem/4/C)  | [MyCode](./Level_1300/problem%204C_Registration_System%20.java) |
+| 29 |  Fox_And_Snake       | 800 | [link of the problem](https://codeforces.com/problemset/problem/510/A)  | [MyCode](./Level_1300/problem%20510A_Fox_And_Snake%20.java) |
 
 
