@@ -38,7 +38,7 @@ Refine: Improve the code and add comments
 | 28 |  Registration_System       | 1300 | [link of the problem](https://codeforces.com/problemset/problem/4/C)  | [MyCode](./Level_1300/problem%204C_Registration_System%20.java) |
 | 29 |  Fox_And_Snake       | 800 | [link of the problem](https://codeforces.com/problemset/problem/510/A)  | [MyCode](./Level_800/problem%20510A_Fox_And_Snake%20.java) |
 | 30 |  Dubstep       | 900 | [link of the problem](https://codeforces.com/problemset/problem/208/A)  | [MyCode](./Level_900/problem%20208A_Dubstep%20.java) |
-| 31 |  Candies and Two Sisters       | 800 | [link of the problem](https://codeforces.com/problemset/problem/1335/A)  | [MyCode](./Level_800/problem%201335A_1335A_Candies_and_Two_Sisters%20.java) |
+| 31 |  Candies and Two Sisters       | 800 | [link of the problem](https://codeforces.com/problemset/problem/1335/A)  | [MyCode](./Level_800/problem%201335A_Candies_and_Two_Sisters%20.java) |
 
 
 
