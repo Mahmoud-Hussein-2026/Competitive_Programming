@@ -4,7 +4,7 @@
 * Author : Mahmoud Hussein .
 * problem :  1742A - Sum .
 * Logic : Checks for each testcase if any single integer equals the sum of the ;
-* other two integers using logical OR (||) and equality (==) operators. .
+* other two integers using logical OR (||) and equality (==) operators.
 * Site : Codeforces .
 */
 import java.util.Scanner;
