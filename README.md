@@ -41,5 +41,5 @@ Refine: Improve the code and add comments
 | 31 |  Candies and Two Sisters       | 800 | [link of the problem](https://codeforces.com/problemset/problem/1335/A)  | [MyCode](./Level_800/problem%201335A_Candies_and_Two_Sisters%20.java) |
 | 32 |  Kefa_and_First_Steps       | 900 | [link of the problem](https://codeforces.com/problemset/problem/580/A)  | [MyCode](./Level_900/problem%20580A_Kefa_and_First_Steps%20.java) |
 | 33 |  Sum     | 800 | [link of the problem](https://codeforces.com/problemset/problem/1742/A)  | [MyCode](./Level_800/problem%201742A_Sum%20.java) |
-
+| 34 |  Sum_of_Round_Numbers   | 800 | [link of the problem](https://codeforces.com/problemset/problem/1352/A)  | [MyCode](./Level_800/problem%201352A_Sum_of_Round_Numbers%20.java) |
 
