@@ -46,3 +46,4 @@ Refine: Improve the code and add comments
 | 36 |  IQ_test   | 1300 | [link of the problem](https://codeforces.com/problemset/problem/25/A)  | [MyCode](./Level_1300/problem%2025A_IQ_test%20.java) |
 | 37 |  Taxi   | 1100 | [link of the problem](https://codeforces.com/problemset/problem/158/B)  | [MyCode](./Level_1100/problem%20158B_Taxi%20.java) |
 | 38 |  Amusing Joke   | 800 | [link of the problem](https://codeforces.com/problemset/problem/141/A)  | [MyCode](./Level_800/problem%20141A_Amusing_Joke%20.java) |
+| 39 |   cAPS_lOCK   | 1000 | [link of the problem](https://codeforces.com/problemset/problem/131/A)  | [MyCode](./Level_1000/problem%20131A_cAPS_lOCK%20.java) |
