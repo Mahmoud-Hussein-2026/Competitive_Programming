@@ -48,3 +48,4 @@ Refine: Improve the code and add comments
 | 38 |  Amusing Joke   | 800 | [link of the problem](https://codeforces.com/problemset/problem/141/A)  | [MyCode](./Level_800/problem%20141A_Amusing_Joke%20.java) |
 | 39 |   cAPS_lOCK   | 1000 | [link of the problem](https://codeforces.com/problemset/problem/131/A)  | [MyCode](./Level_1000/problem%20131A_cAPS_lOCK%20.java) |
 | 40 | The New Year: Meeting Friends  | 800 | [link of the problem](https://codeforces.com/problemset/problem/723/A)  | [MyCode](./Level_800/problem%20723A_The_New_Year:_Meeting_Friends%20.java) |
+| 41 |  Dragons    | 1000 | [link of the problem](https://codeforces.com/problemset/problem/230/A)  | [MyCode](./Level_1000/problem%20230A_Dragons%20.java) |
