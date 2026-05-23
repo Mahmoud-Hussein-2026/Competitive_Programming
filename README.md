@@ -52,3 +52,53 @@ Refine: Improve the code and add comments
 | 42 |  YES or YES?    | 800 | [link of the problem](https://codeforces.com/problemset/problem/1703/A)  | [MyCode](./Level_800/problem%201703A_YES_or_YES%20.java) |
 | 43 |  Police Recruits    | 800 | [link of the problem](https://codeforces.com/problemset/problem/427/A)  | [MyCode](./Level_800/problem%20427A_Police_Recruits%20.java) |
 | 44 |  T_primes    | 1300 | [link of the problem](https://codeforces.com/problemset/problem/230/B)  | [MyCode](./Level_1300/problem%20230B_T_primes%20.java) |
+
+
+# 🚀 Competitive Programming Journey & Profile Dashboard
+
+<div align="center">
+
+### 📊 GitHub & Codeforces Status
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=for-the-badge&color=blue)
+![Language: Java](https://img.shields.io/badge/Language-Java%2021-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+---
+
+### ⚡ My Automation Stats (Auto-Updating)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-and-coding&hide_border=true" height="180px" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-and-coding&hide_border=true&count_private=true" height="180px" alt="GitHub Stats" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=vision-and-coding&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 🏆 Solved Problems Milestone
+
+هنا يمكنك رصد حالة المسائل الكبرى التي قمت بتقفيلها وحصدت فيها الـ Accepted بشكل منظم:
+
+| Problem Code | Problem Name | Difficulty | Language | Status |
+| :---: | :--- | :---: | :---: | :---: |
+| **230B** | [T-primes](https://codeforces.com/problemset/problem/230/B) | `1300` | Java 21 | <img src="https://img.shields.io/badge/ACCEPTED-green?style=flat-square&logo=codeforces&logoColor=white" /> |
+| **427A** | [Police Recruits](https://codeforces.com/problemset/problem/427/A) | `800` | Java 21 | <img src="https://img.shields.io/badge/ACCEPTED-green?style=flat-square&logo=codeforces&logoColor=white" /> |
+| **1703A** | [YES or YES?](https://codeforces.com/problemset/problem/1703/A) | `800` | Java 21 | <img src="https://img.shields.io/badge/ACCEPTED-green?style=flat-square&logo=codeforces&logoColor=white" /> |
+| **230A** | [Dragons](https://codeforces.com/problemset/problem/230/A) | `1000` | Java 21 | <img src="https://img.shields.io/badge/ACCEPTED-green?style=flat-square&logo=codeforces&logoColor=white" /> |
+| **131A** | [cAPS lOCK](https://codeforces.com/problemset/problem/131/A) | `1000` | Java 21 | <img src="https://img.shields.io/badge/ACCEPTED-green?style=flat-square&logo=codeforces&logoColor=white" /> |
+
+---
+
+### 🛠️ Advanced Logic Showcase (Example: 230B)
+> **Sieve of Eratosthenes Optimization:** Precomputed prime numbers up to $10^6$ to handle queries with $x_i \le 10^{12}$ dynamically. This drops the per-query check time from $O(\sqrt{x})$ to a constant $O(1)$ time complexity, bypassing the Time Limit Exceeded (TLE) constraints entirely.
