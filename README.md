@@ -49,3 +49,4 @@ Refine: Improve the code and add comments
 | 39 |   cAPS_lOCK   | 1000 | [link of the problem](https://codeforces.com/problemset/problem/131/A)  | [MyCode](./Level_1000/problem%20131A_cAPS_lOCK%20.java) |
 | 40 | The New Year: Meeting Friends  | 800 | [link of the problem](https://codeforces.com/problemset/problem/723/A)  | [MyCode](./Level_800/problem%20723A_The_New_Year:_Meeting_Friends%20.java) |
 | 41 |  Dragons    | 1000 | [link of the problem](https://codeforces.com/problemset/problem/230/A)  | [MyCode](./Level_1000/problem%20230A_Dragons%20.java) |
+| 42 |  YES or YES?    | 800 | [link of the problem](https://codeforces.com/problemset/problem/1703/A)  | [MyCode](./Level_800/problem%201703A_YES_or_YES?%20.java) |
