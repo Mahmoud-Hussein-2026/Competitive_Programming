@@ -4,10 +4,10 @@ import java.util.Arrays;
 * University : Damascus University .
 * Faculty : Informatics Engineering .
 * Author : Mahmoud Hussein .
-* problem :  337A_Puzzles .java .
+* problem :  337A_Puzzles .
 * Logic : To minimize the difference between the largest and smallest puzzle sizes,given to 'n' students, the puzzle sizes array is sorted in ascending order;
 * A sliding window approach of fixed size 'n' is then used to scan the array;For each window, the difference between the last and first element is calculated;
-* and the global minimum difference is tracked and returned in O(M log M) time. .
+* and the global minimum difference is tracked and returned in O(M log M) time.
 * Site : Codeforces .
 */
 public class Main{
