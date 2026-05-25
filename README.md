@@ -53,3 +53,4 @@ Refine: Improve the code and add comments
 | 43 |  Police Recruits    | 800 | [link of the problem](https://codeforces.com/problemset/problem/427/A)  | [MyCode](./Level_800/problem%20427A_Police_Recruits%20.java) |
 | 44 |  T_primes    | 1300 | [link of the problem](https://codeforces.com/problemset/problem/230/B)  | [MyCode](./Level_1300/problem%20230B_T_primes%20.java) |
 | 45 | Puzzles     | 900 | [link of the problem](https://codeforces.com/problemset/problem/337/A)  | [MyCode](./Level_900/problem%20337A_Puzzles%20.java) |
+| 46 | Soft Drinking     | 800 | [link of the problem](https://codeforces.com/problemset/problem/151/A)  | [MyCode](./Level_800/problem%20151A_Soft_Drinking%20.java) |
