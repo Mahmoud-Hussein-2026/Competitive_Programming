@@ -55,3 +55,4 @@ Refine: Improve the code and add comments
 | 45 | Puzzles     | 900 | [link of the problem](https://codeforces.com/problemset/problem/337/A)  | [MyCode](./Level_900/problem%20337A_Puzzles%20.java) |
 | 46 | Soft Drinking     | 800 | [link of the problem](https://codeforces.com/problemset/problem/151/A)  | [MyCode](./Level_800/problem%20151A_Soft_Drinking%20.java) |
 | 47 | Game with Integers     | 800 | [link of the problem](https://codeforces.com/problemset/problem/1899/A)  | [MyCode](./Level_800/problem%201899A_Game_with_Integers%20.java) |
+| 48 | I_love_\%username\%    | 800 | [link of the problem](https://codeforces.com/problemset/problem/155/A)  | [MyCode](./Level_800/problem%20155A_I_love%20.java) |
