@@ -56,4 +56,5 @@ Refine: Improve the code and add comments
 | 46 | Soft Drinking     | 800 | [link of the problem](https://codeforces.com/problemset/problem/151/A)  | [MyCode](./Level_800/problem%20151A_Soft_Drinking%20.java) |
 | 47 | Game with Integers     | 800 | [link of the problem](https://codeforces.com/problemset/problem/1899/A)  | [MyCode](./Level_800/problem%201899A_Game_with_Integers%20.java) |
 | 48 | I_love_\%username\%    | 800 | [link of the problem](https://codeforces.com/problemset/problem/155/A)  | [MyCode](./Level_800/problem%20155A_I_love%20.java) |
-| 49 | New_Year_and_Hurry   | 800 | [link of the problem](https://codeforces.com/problemset/problem/750/A)  | [MyCode](./Level_800/problem%20750A_New_Year_and_Hurry%20.java) |
+| 49 | New Year and Hurry   | 800 | [link of the problem](https://codeforces.com/problemset/problem/750/A)  | [MyCode](./Level_800/problem%20750A_New_Year_and_Hurry%20.java) |
+| 50 | Vanya and Lanterns   | 1200 | [link of the problem](https://codeforces.com/problemset/problem/492/B)  | [MyCode](./Level_1200/problem%20492B_Vanya_and_Lanterns%20.java) |
