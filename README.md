@@ -7,8 +7,9 @@ Test: Check all cases to avoid errors.
 Refine: Improve the code and add comments
 ## 🏆 Solved Problems Index
 | # | Problem Name             |Level|                                 Links                                  |                    My Solution                    |
+|---|--------------            |-----|                                 -----                                  |                   -------------                   ||| # | Problem Name             |Level|                                 Links                                  |                    My Solution                    |
 |---|--------------            |-----|                                 -----                                  |                   -------------                   |
-| 1 | Lucky Division           |1000 | [link of the problem](https://codeforces.com/problemset/problem/122/A) | [MyCode](./Level_1000/problem%20122A_Lucky_Division%20.java) |
+| 1 | Lucky Division           |1000 | [link of the problem](https://codeforces.com/problemset/problem/122/A) | [MyCode](./Level_1000/problem%20122A_Lucky_Division%20.java) ||| 51 | 381A - Sereja and Dima           |800 | [link of the problem](https://codeforces.com/problemset/problem/381/A) | [MyCode](./Level_800/problem%20381A_Sereja_and_Dima%20.java) |
 | 2 | Drinks                   | 800 | [link of the problem](https://codeforces.com/problemset/problem/200/B) | [MyCode](./Level_800/problem%20200B_Drinks%20.java)         |
 | 3 | Magnets                  | 800 | [link of the problem](https://codeforces.com/problemset/problem/344/A) | [MyCode](./Level_800/problem%20344A_Magnets%20.java)        |
 | 4 | George and Accommodation | 800 | [link of the problem](https://codeforces.com/problemset/problem/467/A) | [MyCode](./Level_800/problem%20467A_George%20.java)         |
