@@ -6,9 +6,9 @@ Code: Write clean and efficient solutions.
 Test: Check all cases to avoid errors.
 Refine: Improve the code and add comments
 ## 🏆 Solved Problems Index   
-| # | Problem Name | Level | Links | My Solution | | # | Problem Name | Level | Links | My Solution |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- | :---: | :---: | :---: |
-| 1 | Lucky Division           |1000 | [link of the problem](https://codeforces.com/problemset/problem/122/A) | [MyCode](./Level_1000/problem%20122A_Lucky_Division%20.java) |||| 51 | 381A - Sereja and Dima           |800 | [link of the problem](https://codeforces.com/problemset/problem/381/A) | [MyCode](./Level_800/problem%20381A_Sereja_and_Dima%20.java) |
+| # | Problem Name             |Level|                         Links                               |                    My Solution                    |
+|---|--------------------------|-----|                     -----------                          |              ----------|
+| 1 | Lucky Division           |1000 | [link of the problem](https://codeforces.com/problemset/problem/122/A) | [MyCode](./Level_1000/problem%20122A_Lucky_Division%20.java) |
 | 2 | Drinks                   | 800 | [link of the problem](https://codeforces.com/problemset/problem/200/B) | [MyCode](./Level_800/problem%20200B_Drinks%20.java)         |
 | 3 | Magnets                  | 800 | [link of the problem](https://codeforces.com/problemset/problem/344/A) | [MyCode](./Level_800/problem%20344A_Magnets%20.java)        |
 | 4 | George and Accommodation | 800 | [link of the problem](https://codeforces.com/problemset/problem/467/A) | [MyCode](./Level_800/problem%20467A_George%20.java)         |
@@ -58,3 +58,4 @@ Refine: Improve the code and add comments
 | 48 | I_love_\%username\%    | 800 | [link of the problem](https://codeforces.com/problemset/problem/155/A)  | [MyCode](./Level_800/problem%20155A_I_love%20.java) |
 | 49 | New Year and Hurry   | 800 | [link of the problem](https://codeforces.com/problemset/problem/750/A)  | [MyCode](./Level_800/problem%20750A_New_Year_and_Hurry%20.java) |
 | 50 | Vanya and Lanterns   | 1200 | [link of the problem](https://codeforces.com/problemset/problem/492/B)  | [MyCode](./Level_1200/problem%20492B_Vanya_and_Lanterns%20.java) |
+| 51 | 381A - Sereja and Dima           |800 | [link of the problem](https://codeforces.com/problemset/problem/381/A) | [MyCode](./Level_800/problem%20381A_Sereja_and_Dima%20.java) |
