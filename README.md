@@ -60,3 +60,4 @@ Refine: Improve the code and add comments
 | 50 | Vanya and Lanterns   | 1200 | [link of the problem](https://codeforces.com/problemset/problem/492/B)  | [MyCode](./Level_1200/problem%20492B_Vanya_and_Lanterns%20.java) |
 | 51 | Sereja and Dima           |800 | [link of the problem](https://codeforces.com/problemset/problem/381/A) | [MyCode](./Level_800/problem%20381A_Sereja_and_Dima%20.java) |
 | 52 |  Buy a Shovel          |800 | [link of the problem](https://codeforces.com/problemset/problem/732/A) | [MyCode](./Level_800/problem%20732A_Buy_a_Shovel%20.java) |
+| 53 |   Division?         |800 | [link of the problem](https://codeforces.com/problemset/problem/1669/A) | [MyCode](./Level_800/problem%201669A_Division%20.java) |
