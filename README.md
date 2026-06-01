@@ -59,4 +59,4 @@ Refine: Improve the code and add comments
 | 49 | New Year and Hurry   | 800 | [link of the problem](https://codeforces.com/problemset/problem/750/A)  | [MyCode](./Level_800/problem%20750A_New_Year_and_Hurry%20.java) |
 | 50 | Vanya and Lanterns   | 1200 | [link of the problem](https://codeforces.com/problemset/problem/492/B)  | [MyCode](./Level_1200/problem%20492B_Vanya_and_Lanterns%20.java) |
 | 51 | Sereja and Dima           |800 | [link of the problem](https://codeforces.com/problemset/problem/381/A) | [MyCode](./Level_800/problem%20381A_Sereja_and_Dima%20.java) |
-| 52 |  Buy a Shovel          |800 | [link of the problem](https://codeforces.com/problemset/problem/732/A) | [MyCode](./Level_800/problem%20732ABuy_a_Shovel%20.java) |
+| 52 |  Buy a Shovel          |800 | [link of the problem](https://codeforces.com/problemset/problem/732/A) | [MyCode](./Level_800/problem%20732A_Buy_a_Shovel%20.java) |
