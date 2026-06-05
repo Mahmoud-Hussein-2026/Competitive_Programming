@@ -65,3 +65,4 @@ Refine: Improve the code and add comments
 | 55 |  Restoring Three Numbers         |800 | [link of the problem](https://codeforces.com/problemset/problem/1154/A) | [MyCode](./Level_800/problem%201154A_Restoring_Three_Numbers%20.java) |
 | 56 |  Marathon           |800 | [link of the problem](https://codeforces.com/problemset/problem/1692/A) | [MyCode](./Level_800/problem%201692A_Marathon%20.java) |
 | 57 |  Interesting drink          |800 | [link of the problem](https://codeforces.com/problemset/problem/706/B) | [MyCode](./Level_800/problem%20706B_Interesting_drink%20.java) |
+| 58 |  Plus or Minus         |800 | [link of the problem](https://codeforces.com/problemset/problem/1807/A) | [MyCode](./Level_800/problem%201807A_Plus_or_Minus%20.java) |
