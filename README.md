@@ -67,3 +67,4 @@ Refine: Improve the code and add comments
 | 57 |  Interesting drink          |800 | [link of the problem](https://codeforces.com/problemset/problem/706/B) | [MyCode](./Level_800/problem%20706B_Interesting_drink%20.java) |
 | 58 |  Plus or Minus         |800 | [link of the problem](https://codeforces.com/problemset/problem/1807/A) | [MyCode](./Level_800/problem%201807A_Plus_or_Minus%20.java) |
 | 59 |  Vasya the Hipster        |800 | [link of the problem](https://codeforces.com/problemset/problem/581/A) | [MyCode](./Level_800/problem%20581A_Vasya_the_Hipster%20.java) |
+| 60 | Halloumi Boxes       |800 | [link of the problem](https://codeforces.com/problemset/problem/1903/A) | [MyCode](./Level_800/problem%201903A_Halloumi_Boxes%20.java) |
