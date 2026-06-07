@@ -68,3 +68,4 @@ Refine: Improve the code and add comments
 | 58 |  Plus or Minus         |800 | [link of the problem](https://codeforces.com/problemset/problem/1807/A) | [MyCode](./Level_800/problem%201807A_Plus_or_Minus%20.java) |
 | 59 |  Vasya the Hipster        |800 | [link of the problem](https://codeforces.com/problemset/problem/581/A) | [MyCode](./Level_800/problem%20581A_Vasya_the_Hipster%20.java) |
 | 60 | Halloumi Boxes       |800 | [link of the problem](https://codeforces.com/problemset/problem/1903/A) | [MyCode](./Level_800/problem%201903A_Halloumi_Boxes%20.java) |
+| 61 | Xenia and Ringroad      |1000 | [link of the problem](https://codeforces.com/problemset/problem/339/B) | [MyCode](./Level_1000/problem%20339B_Xenia_and_Ringroad%20.java) |
