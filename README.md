@@ -71,3 +71,4 @@ Refine: Improve the code and add comments
 | 61 | Xenia and Ringroad      |1000 | [link of the problem](https://codeforces.com/problemset/problem/339/B) | [MyCode](./Level_1000/problem%20339B_Xenia_and_Ringroad%20.java) |
 | 62 | Cut Ribbon      |1300 | [link of the problem](https://codeforces.com/problemset/problem/189/A) | [MyCode](./Level_1300/problem%20189A_Cut_Ribbon%20.java) |
 | 63 | Remove Smallest      |800 | [link of the problem](https://codeforces.com/problemset/problem/1399/A) | [MyCode](./Level_800/problem%201399A_Remove_Smallest%20.java) |
+| 64 | How Much Does Daytona Cost      |800 | [link of the problem](https://codeforces.com/problemset/problem/1878/A) | [MyCode](./Level_800/problem%201878A_How_Much_Does_Daytona_Cost%20.java) |
