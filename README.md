@@ -74,3 +74,4 @@ Refine: Improve the code and add comments
 | 64 | How Much Does Daytona Cost      |800 | [link of the problem](https://codeforces.com/problemset/problem/1878/A) | [MyCode](./Level_800/problem%201878A_How_Much_Does_Daytona_Cost%20.java) |
 | 65 | Array Coloring      |800 | [link of the problem](https://codeforces.com/problemset/problem/1857/A) | [MyCode](./Level_800/problem%201857A_Array_Coloring%20.java) |
 | 66 | Yet Another Two Integers Problem      |800 | [link of the problem](https://codeforces.com/problemset/problem/1409/A) | [MyCode](./Level_800/problem%201409A_Yet_Another_Two_Integers_Problem%20.java) |
+| 67 | Spy Detected      |800 | [link of the problem](https://codeforces.com/problemset/problem/1512/A) | [MyCode](./Level_800/problem%201512A_Spy_Detected%20.java) |
