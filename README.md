@@ -77,3 +77,4 @@ Refine: Improve the code and add comments
 | 67 | Spy Detected      |800 | [link of the problem](https://codeforces.com/problemset/problem/1512/A) | [MyCode](./Level_800/problem%201512A_Spy_Detected%20.java) |
 | 68 | Medium Number      |800 | [link of the problem](https://codeforces.com/problemset/problem/1760/A) | [MyCode](./Level_800/problem%201760A_Medium_Number%20.java) |
 | 69 | Odd One Out      |800 | [link of the problem](https://codeforces.com/problemset/problem/1915/A) | [MyCode](./Level_800/problem%201915A_Odd_One_Out%20.java) |
+| 70 | 32B_Borze      |800 | [link of the problem](https://codeforces.com/problemset/problem/32/B) | [MyCode](./Level_800/problem%2032B_Borze%20.java) |
