@@ -75,3 +75,5 @@ Refine: Improve the code and add comments
 | 65 | Array Coloring      |800 | [link of the problem](https://codeforces.com/problemset/problem/1857/A) | [MyCode](./Level_800/problem%201857A_Array_Coloring%20.java) |
 | 66 | Yet Another Two Integers Problem      |800 | [link of the problem](https://codeforces.com/problemset/problem/1409/A) | [MyCode](./Level_800/problem%201409A_Yet_Another_Two_Integers_Problem%20.java) |
 | 67 | Spy Detected      |800 | [link of the problem](https://codeforces.com/problemset/problem/1512/A) | [MyCode](./Level_800/problem%201512A_Spy_Detected%20.java) |
+| 68 | Medium Number      |800 | [link of the problem](https://codeforces.com/problemset/problem/1760/A) | [MyCode](./Level_800/problem%201760A_Medium_Number%20.java) |
+| 69 | Odd One Out      |800 | [link of the problem](https://codeforces.com/problemset/problem/1915/A) | [MyCode](./Level_800/problem%201915A_Odd_One_Out%20.java) |
