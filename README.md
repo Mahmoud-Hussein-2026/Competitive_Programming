@@ -79,4 +79,5 @@ Refine: Improve the code and add comments
 | 69 | Odd One Out      |800 | [link of the problem](https://codeforces.com/problemset/problem/1915/A) | [MyCode](./Level_800/problem%201915A_Odd_One_Out%20.java) |
 | 70 | Borze      |800 | [link of the problem](https://codeforces.com/problemset/problem/32/B) | [MyCode](./Level_800/problem%2032B_Borze%20.java) |
 | 71 | Raising Bacteria      |1000 | [link of the problem](https://codeforces.com/problemset/problem/579/A) | [MyCode](./Level_1000/problem%20579A_Raising_Bacteria%20.java) |
-| 7 | Line Trip     |800 | [link of the problem](https://codeforces.com/problemset/problem/1901/A) | [MyCode](./Level_800/problem%201901A_Line_Trip%20.java) |
+| 72 | Line Trip     |800 | [link of the problem](https://codeforces.com/problemset/problem/1901/A) | [MyCode](./Level_800/problem%201901A_Line_Trip%20.java) |
+| 73 | Cheap Travel    |1200 | [link of the problem](https://codeforces.com/problemset/problem/466/A) | [MyCode](./Level_1200/problem%20466A_Cheap_Travel%20.java) |
