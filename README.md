@@ -81,3 +81,4 @@ Refine: Improve the code and add comments
 | 71 | Raising Bacteria      |1000 | [link of the problem](https://codeforces.com/problemset/problem/579/A) | [MyCode](./Level_1000/problem%20579A_Raising_Bacteria%20.java) |
 | 72 | Line Trip     |800 | [link of the problem](https://codeforces.com/problemset/problem/1901/A) | [MyCode](./Level_800/problem%201901A_Line_Trip%20.java) |
 | 73 | Cheap Travel    |1200 | [link of the problem](https://codeforces.com/problemset/problem/466/A) | [MyCode](./Level_1200/problem%20466A_Cheap_Travel%20.java) |
+| 74 | Prepend and Append    |800 | [link of the problem](https://codeforces.com/problemset/problem/1791/C) | [MyCode](./Level_800/problem%201791C_Prepend_and_Append%20.java) |
