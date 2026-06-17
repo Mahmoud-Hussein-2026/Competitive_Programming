@@ -84,3 +84,4 @@ Refine: Improve the code and add comments
 | 74 | Prepend and Append    |800 | [link of the problem](https://codeforces.com/problemset/problem/1791/C) | [MyCode](./Level_800/problem%201791C_Prepend_and_Append%20.java) |
 | 75 | Game With Sticks       | 900 | [link of the problem](https://codeforces.com/problemset/problem/451/A)  | [MyCode](./Level_900/problem%20451A_Game_With_Sticks%20.java)        |
 | 76 | Holiday Of Equality       | 800 | [link of the problem](https://codeforces.com/problemset/problem/758/A)  | [MyCode](./Level_800/problem%20758A_Holiday_Of_Equality%20.java)        |
+| 77 | To My Critics       | 800 | [link of the problem](https://codeforces.com/problemset/problem/1850/A)  | [MyCode](./Level_800/problem%201850A_To_My_Critics%20.java)        |
