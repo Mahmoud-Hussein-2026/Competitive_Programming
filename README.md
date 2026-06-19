@@ -85,5 +85,6 @@ Refine: Improve the code and add comments
 | 75 | Game With Sticks       | 900 | [link of the problem](https://codeforces.com/problemset/problem/451/A)  | [MyCode](./Level_900/problem%20451A_Game_With_Sticks%20.java)        |
 | 76 | Holiday Of Equality       | 800 | [link of the problem](https://codeforces.com/problemset/problem/758/A)  | [MyCode](./Level_800/problem%20758A_Holiday_Of_Equality%20.java)        |
 | 77 | To My Critics       | 800 | [link of the problem](https://codeforces.com/problemset/problem/1850/A)  | [MyCode](./Level_800/problem%201850A_To_My_Critics%20.java)        |
-| 78 |  Books       | 1400 | [link of the problem](https://codeforces.com/problemset/problem/279/B)  | [MyCode](./Level_1400/problem%20279B_Books%20.java)        |
+| 78 |  Books    | 1400 | [link of the problem](https://codeforces.com/problemset/problem/279/B)  | [MyCode](./Level_1400/problem%20279B_Books%20.java)   |
 | 79 | Dislike of Threes       | 800 | [link of the problem](https://codeforces.com/problemset/problem/1560/A)  | [MyCode](./Level_800/problem%201560A_Dislike_of_Threes%20.java)        |
+| 80 |   Minimize       | 800 | [link of the problem](https://codeforces.com/problemset/problem/2009/A)  | [MyCode](./Level_800/problem%202009A_Minimize%20.java)        |
