@@ -92,3 +92,4 @@ Refine: Improve the code and add comments
 | 82 | Boredom       | 1500 | [link of the problem](https://codeforces.com/problemset/problem/455/A)  | [MyCode](./Level_1500/problem%20455A_Boredom%20.java)        |
 | 83 | Creating Words       | 800 | [link of the problem](https://codeforces.com/problemset/problem/1985/A)  | [MyCode](./Level_800/problem%201985A_Creating_Words%20.java)        |
 | 84 | Target Practice       | 800 | [link of the problem](https://codeforces.com/problemset/problem/1873/C)  | [MyCode](./Level_800/problem%201873C_Target_Practice%20.java)        |
+| 85 | Chewbaсca and Number     | 1200 | [link of the problem](https://codeforces.com/problemset/problem/514/A)  | [MyCode](./Level_1200/problem%20514A_Chewbaсca_and_Number%20.java)        |
