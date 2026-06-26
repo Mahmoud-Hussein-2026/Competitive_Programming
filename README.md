@@ -97,3 +97,4 @@ Refine: Improve the code and add comments
 | 87 | Team Olympiad       | 800 | [link of the problem](https://codeforces.com/problemset/problem/490/A)  | [MyCode](./Level_800/problem%20490A_Team_Olympiad%20.java)        |
 | 88 | Love Story       | 800 | [link of the problem](https://codeforces.com/problemset/problem/1829/A)  | [MyCode](./Level_800/problem%201829A_Love_Story%20.java)        |
 | 89 | Design Tutorial      | 800 | [link of the problem](https://codeforces.com/problemset/problem/472/A)  | [MyCode](./Level_800/problem%20472A_Design_Tutorial%20.java)        |
+| 90 | Design Tutorial      | 1200 | [link of the problem](https://codeforces.com/problemset/problem/1352/C)  | [MyCode](./Level_1200/problem%201352C_K-th_Not_Divisible_by_n%20.java)        |
