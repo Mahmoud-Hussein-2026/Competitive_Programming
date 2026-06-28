@@ -100,3 +100,4 @@ Refine: Improve the code and add comments
 | 90 | K-th Not Divisible by n      | 1200 | [link of the problem](https://codeforces.com/problemset/problem/1352/C)  | [MyCode](./Level_1200/problem%201352C_K-th_Not_Divisible_by_n%20.java)        |
 | 91 | Die Roll     | 800 | [link of the problem](https://codeforces.com/problemset/problem/9/A)  | [MyCode](./Level_800/problem%209A_Die_Roll%20.java)        |
 | 92 | Stair, Peak, or Neither?     | 800 | [link of the problem](https://codeforces.com/problemset/problem/1950/A)  | [MyCode](./Level_800/problem%201950A_Stair_Peak_Neither%20.java)        |
+| 93 | Football     | 1000 | [link of the problem](https://codeforces.com/problemset/problem/43/A)  | [MyCode](./Level_1000/problem%2043A_Football%20.java)        |
