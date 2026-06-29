@@ -22,7 +22,6 @@ public class Main{
           if(i<windowSize){
               currentSum += plankHeights[i];
           }
-         
        }
       // Initialize minSum with the first window's sum .
        minSum = currentSum;
