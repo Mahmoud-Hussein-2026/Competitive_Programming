@@ -102,3 +102,4 @@ Refine: Improve the code and add comments
 | 92 | Stair, Peak, or Neither?     | 800 | [link of the problem](https://codeforces.com/problemset/problem/1950/A)  | [MyCode](./Level_800/problem%201950A_Stair_Peak_Neither%20.java)        |
 | 93 | Football     | 1000 | [link of the problem](https://codeforces.com/problemset/problem/43/A)  | [MyCode](./Level_1000/problem%2043A_Football%20.java)        |
 | 94 | Choosing Teams    | 800 | [link of the problem](https://codeforces.com/problemset/problem/432/A)  | [MyCode](./Level_800/problem%20432A_Choosing_Teams%20.java)        |
+| 95 | Buttons   | 800 | [link of the problem](https://codeforces.com/problemset/problem/1858/A)  | [MyCode](./Level_800/problem%201858A_Buttons%20.java)        |
