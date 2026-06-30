@@ -104,3 +104,4 @@ Refine: Improve the code and add comments
 | 94 | Choosing Teams    | 800 | [link of the problem](https://codeforces.com/problemset/problem/432/A)  | [MyCode](./Level_800/problem%20432A_Choosing_Teams%20.java)        |
 | 95 | Buttons   | 800 | [link of the problem](https://codeforces.com/problemset/problem/1858/A)  | [MyCode](./Level_800/problem%201858A_Buttons%20.java)        |
 | 96 | Fence   | 1100 | [link of the problem](https://codeforces.com/problemset/problem/363/B)  | [MyCode](./Level_1100/problem%20363B_Fence%20.java)        |
+| 97 | Short Substrings   | 800 | [link of the problem](https://codeforces.com/problemset/problem/1367/A)  | [MyCode](./Level_800/problem%201367A_Short_Substrings%20.java)        |
