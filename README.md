@@ -106,3 +106,4 @@ Refine: Improve the code and add comments
 | 96 | Fence   | 1100 | [link of the problem](https://codeforces.com/problemset/problem/363/B)  | [MyCode](./Level_1100/problem%20363B_Fence%20.java)        |
 | 97 | Short Substrings   | 800 | [link of the problem](https://codeforces.com/problemset/problem/1367/A)  | [MyCode](./Level_800/problem%201367A_Short_Substrings%20.java)        |
 | 98 | Cover in Water   | 800 | [link of the problem](https://codeforces.com/problemset/problem/1900/A)  | [MyCode](./Level_800/problem%201900A_Cover_in_Water%20.java)        |
+| 99 | ICPC Balloons  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1703/B)  | [MyCode](./Level_800/problem%201703B_ICPC_Balloons%20.java)        |
