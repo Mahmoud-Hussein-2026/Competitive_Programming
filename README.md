@@ -108,3 +108,4 @@ Refine: Improve the code and add comments
 | 98 | Cover in Water   | 800 | [link of the problem](https://codeforces.com/problemset/problem/1900/A)  | [MyCode](./Level_800/problem%201900A_Cover_in_Water%20.java)        |
 | 99 | ICPC Balloons  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1703/B)  | [MyCode](./Level_800/problem%201703B_ICPC_Balloons%20.java)        |
 | 100 | Mishka and Game  | 800 | [link of the problem](https://codeforces.com/problemset/problem/703/A)  | [MyCode](./Level_800/problem%20703A_Mishka_and_Game%20.java)        |
+| 101 | Panoramix's Prediction  | 800 | [link of the problem](https://codeforces.com/problemset/problem/80/A)  | [MyCode](./Level_800/problem%2080A_Panoramix's_Prediction%20.java)        |
