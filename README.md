@@ -110,3 +110,4 @@ Refine: Improve the code and add comments
 | 100 | Mishka and Game  | 800 | [link of the problem](https://codeforces.com/problemset/problem/703/A)  | [MyCode](./Level_800/problem%20703A_Mishka_and_Game%20.java)        |
 | 101 | Panoramix's Prediction  | 800 | [link of the problem](https://codeforces.com/problemset/problem/80/A)  | [MyCode](./Level_800/problem%2080A_Panoramix's_Prediction%20.java)        |
 | 102 | Sale  | 900 | [link of the problem](https://codeforces.com/problemset/problem/34/B)  | [MyCode](./Level_900/problem%2034B_Sale%20.java)        |
+| 103 | Same Differences  | 1200 | [link of the problem](https://codeforces.com/problemset/problem/1520/D)  | [MyCode](./Level_1200/problem%201520D_Same_Differences%20.java)        |
