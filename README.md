@@ -113,3 +113,4 @@ Refine: Improve the code and add comments
 | 103 | Same Differences  | 1200 | [link of the problem](https://codeforces.com/problemset/problem/1520/D)  | [MyCode](./Level_1200/problem%201520D_Same_Differences%20.java)        |
 | 104 | Black Square  | 800 | [link of the problem](https://codeforces.com/problemset/problem/431/A)  | [MyCode](./Level_800/problem%20431A_Black_Square%20.java)        |
 | 105 | Spell Check  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1722/A)  | [MyCode](./Level_800/problem%201722A_Spell_Check%20.java)        |
+| 106 | Balanced Array  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1343/B)  | [MyCode](./Level_800/problem%201343B_Balanced_Array%20.java)        |
