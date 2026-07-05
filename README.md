@@ -114,3 +114,4 @@ Refine: Improve the code and add comments
 | 104 | Black Square  | 800 | [link of the problem](https://codeforces.com/problemset/problem/431/A)  | [MyCode](./Level_800/problem%20431A_Black_Square%20.java)        |
 | 105 | Spell Check  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1722/A)  | [MyCode](./Level_800/problem%201722A_Spell_Check%20.java)        |
 | 106 | Balanced Array  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1343/B)  | [MyCode](./Level_800/problem%201343B_Balanced_Array%20.java)        |
+| 107 | Maximum GCD  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1370/A)  | [MyCode](./Level_800/problem%201370A_Maximum_GCD%20.java)        |
