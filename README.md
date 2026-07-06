@@ -115,3 +115,4 @@ Refine: Improve the code and add comments
 | 105 | Spell Check  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1722/A)  | [MyCode](./Level_800/problem%201722A_Spell_Check%20.java)        |
 | 106 | Balanced Array  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1343/B)  | [MyCode](./Level_800/problem%201343B_Balanced_Array%20.java)        |
 | 107 | Maximum GCD  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1370/A)  | [MyCode](./Level_800/problem%201370A_Maximum_GCD%20.java)        |
+| 108 | Move Brackets  | 1000 | [link of the problem](https://codeforces.com/problemset/problem/1374/C)  | [MyCode](./Level_1000/problem%201374C_Move_Brackets%20.java)        |
