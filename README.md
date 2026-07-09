@@ -119,3 +119,4 @@ Refine: Improve the code and add comments
 | 109 | Ilya and Bank Account  | 900 | [link of the problem](https://codeforces.com/problemset/problem/313/A)  | [MyCode](./Level_900/problem%20313A_Ilya_and_Bank_Account%20.java)        |
 | 110 | Even Array  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1367/B)  | [MyCode](./Level_800/problem%201367B_Even_Array%20.java)        |
 | 111 | Required Remainder  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1374/A)  | [MyCode](./Level_800/problem%201374A_Required_Remainder%20.java)        |
+| 112 |  Worms  | 1200 | [link of the problem](https://codeforces.com/problemset/problem/474/B)  | [MyCode](./Level_1200/problem%20474B_Worms%20.java)        |
