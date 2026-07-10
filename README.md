@@ -88,8 +88,7 @@ Refine: Improve the code and add comments
 | 78 |  Books    | 1400 | [link of the problem](https://codeforces.com/problemset/problem/279/B)  | [MyCode](./Level_1400/problem%20279B_Books%20.java)   |
 | 79 | Dislike of Threes       | 800 | [link of the problem](https://codeforces.com/problemset/problem/1560/A)  | [MyCode](./Level_800/problem%201560A_Dislike_of_Threes%20.java)        |
 | 80 |   Minimize       | 800 | [link of the problem](https://codeforces.com/problemset/problem/2009/A)  | [MyCode](./Level_800/problem%202009A_Minimize%20.java)        |
-| 81 | Multiply by 2, divide by 6       | 900 | [link of the problem](https://codeforces.com/problemset/problem/1374/B)  | [MyCode](./Level_900/problem%201374B_Multiply_by2_divide_by6%20.java)        |
-| 82 | Boredom       | 1500 | [link of the problem](https://codeforces.com/problemset/problem/455/A)  | [MyCode](./Level_1500/problem%20455A_Boredom%20.java)        |
+| 81 | Multiply by 2, divide by 6       | 900 | [link of the problem](https://codeforces.com/problemset/problem/1374/B)  | [MyCode](./Level_900/problem%201374B_Multiply_by2_divide_by6%20.java)  |
 | 83 | Creating Words       | 800 | [link of the problem](https://codeforces.com/problemset/problem/1985/A)  | [MyCode](./Level_800/problem%201985A_Creating_Words%20.java)        |
 | 84 | Target Practice       | 800 | [link of the problem](https://codeforces.com/problemset/problem/1873/C)  | [MyCode](./Level_800/problem%201873C_Target_Practice%20.java)        |
 | 85 | Chewbaсca and Number     | 1200 | [link of the problem](https://codeforces.com/problemset/problem/514/A)  | [MyCode](./Level_1200/problem%20514A_Chewbaсca_and_Number%20.java)        |
