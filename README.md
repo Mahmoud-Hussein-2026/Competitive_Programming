@@ -120,3 +120,4 @@ Refine: Improve the code and add comments
 | 110 | Even Array  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1367/B)  | [MyCode](./Level_800/problem%201367B_Even_Array%20.java)        |
 | 111 | Required Remainder  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1374/A)  | [MyCode](./Level_800/problem%201374A_Required_Remainder%20.java)        |
 | 112 |  Worms  | 1200 | [link of the problem](https://codeforces.com/problemset/problem/474/B)  | [MyCode](./Level_1200/problem%20474B_Worms%20.java)        |
+| 113 |  Vanya and Cubes  | 800 | [link of the problem](https://codeforces.com/problemset/problem/492/A)  | [MyCode](./Level_800/problem%20492A_Vanya_and_Cubes%20.java)        |
