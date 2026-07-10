@@ -35,7 +35,6 @@ Refine: Improve the code and add comments
 | 25 | Expression        | 1000 | [link of the problem](https://codeforces.com/problemset/problem/479/A)  | [MyCode](./Level_1000/problem%20479A_Expression%20.java) |
 | 26 | Anton_and_Letters        | 800 | [link of the problem](https://codeforces.com/problemset/problem/443/A)  | [MyCode](./Level_800/problem%20443A_Anton_and_Letters%20.java) |
 | 27 |  Anton_and_Polyhedrons       | 800 | [link of the problem](https://codeforces.com/problemset/problem/785/A)  | [MyCode](./Level_800/problem%20785A_Anton_and_Polyhedrons%20.java) |
-| 28 |  Registration_System       | 1300 | [link of the problem](https://codeforces.com/problemset/problem/4/C)  | [MyCode](./Level_1300/problem%204C_Registration_System%20.java) |
 | 29 |  Fox_And_Snake       | 800 | [link of the problem](https://codeforces.com/problemset/problem/510/A)  | [MyCode](./Level_800/problem%20510A_Fox_And_Snake%20.java) |
 | 30 |  Dubstep       | 900 | [link of the problem](https://codeforces.com/problemset/problem/208/A)  | [MyCode](./Level_900/problem%20208A_Dubstep%20.java) |
 | 31 |  Candies and Two Sisters       | 800 | [link of the problem](https://codeforces.com/problemset/problem/1335/A)  | [MyCode](./Level_800/problem%201335A_Candies_and_Two_Sisters%20.java) |
@@ -43,7 +42,6 @@ Refine: Improve the code and add comments
 | 33 |  Sum     | 800 | [link of the problem](https://codeforces.com/problemset/problem/1742/A)  | [MyCode](./Level_800/problem%201742A_Sum%20.java) |
 | 34 |  Sum_of_Round_Numbers   | 800 | [link of the problem](https://codeforces.com/problemset/problem/1352/A)  | [MyCode](./Level_800/problem%201352A_Sum_of_Round_Numbers%20.java) |
 | 35 | Games    | 800 | [link of the problem](https://codeforces.com/problemset/problem/268/A)  | [MyCode](./Level_800/problem%20268A_Games%20.java) |
-| 36 |  IQ_test   | 1300 | [link of the problem](https://codeforces.com/problemset/problem/25/A)  | [MyCode](./Level_1300/problem%2025A_IQ_test%20.java) |
 | 37 |  Taxi   | 1100 | [link of the problem](https://codeforces.com/problemset/problem/158/B)  | [MyCode](./Level_1100/problem%20158B_Taxi%20.java) |
 | 38 |  Amusing Joke   | 800 | [link of the problem](https://codeforces.com/problemset/problem/141/A)  | [MyCode](./Level_800/problem%20141A_Amusing_Joke%20.java) |
 | 39 |   cAPS_lOCK   | 1000 | [link of the problem](https://codeforces.com/problemset/problem/131/A)  | [MyCode](./Level_1000/problem%20131A_cAPS_lOCK%20.java) |
@@ -51,13 +49,11 @@ Refine: Improve the code and add comments
 | 41 |  Dragons    | 1000 | [link of the problem](https://codeforces.com/problemset/problem/230/A)  | [MyCode](./Level_1000/problem%20230A_Dragons%20.java) |
 | 42 |  YES or YES?    | 800 | [link of the problem](https://codeforces.com/problemset/problem/1703/A)  | [MyCode](./Level_800/problem%201703A_YES_or_YES%20.java) |
 | 43 |  Police Recruits    | 800 | [link of the problem](https://codeforces.com/problemset/problem/427/A)  | [MyCode](./Level_800/problem%20427A_Police_Recruits%20.java) |
-| 44 |  T_primes    | 1300 | [link of the problem](https://codeforces.com/problemset/problem/230/B)  | [MyCode](./Level_1300/problem%20230B_T_primes%20.java) |
 | 45 | Puzzles     | 900 | [link of the problem](https://codeforces.com/problemset/problem/337/A)  | [MyCode](./Level_900/problem%20337A_Puzzles%20.java) |
 | 46 | Soft Drinking     | 800 | [link of the problem](https://codeforces.com/problemset/problem/151/A)  | [MyCode](./Level_800/problem%20151A_Soft_Drinking%20.java) |
 | 47 | Game with Integers     | 800 | [link of the problem](https://codeforces.com/problemset/problem/1899/A)  | [MyCode](./Level_800/problem%201899A_Game_with_Integers%20.java) |
 | 48 | I_love_\%username\%    | 800 | [link of the problem](https://codeforces.com/problemset/problem/155/A)  | [MyCode](./Level_800/problem%20155A_I_love%20.java) |
 | 49 | New Year and Hurry   | 800 | [link of the problem](https://codeforces.com/problemset/problem/750/A)  | [MyCode](./Level_800/problem%20750A_New_Year_and_Hurry%20.java) |
-| 50 | Vanya and Lanterns   | 1200 | [link of the problem](https://codeforces.com/problemset/problem/492/B)  | [MyCode](./Level_1200/problem%20492B_Vanya_and_Lanterns%20.java) |
 | 51 | Sereja and Dima           |800 | [link of the problem](https://codeforces.com/problemset/problem/381/A) | [MyCode](./Level_800/problem%20381A_Sereja_and_Dima%20.java) |
 | 52 |  Buy a Shovel          |800 | [link of the problem](https://codeforces.com/problemset/problem/732/A) | [MyCode](./Level_800/problem%20732A_Buy_a_Shovel%20.java) |
 | 53 |   Division?         |800 | [link of the problem](https://codeforces.com/problemset/problem/1669/A) | [MyCode](./Level_800/problem%201669A_Division%20.java) |
@@ -69,7 +65,6 @@ Refine: Improve the code and add comments
 | 59 |  Vasya the Hipster        |800 | [link of the problem](https://codeforces.com/problemset/problem/581/A) | [MyCode](./Level_800/problem%20581A_Vasya_the_Hipster%20.java) |
 | 60 | Halloumi Boxes       |800 | [link of the problem](https://codeforces.com/problemset/problem/1903/A) | [MyCode](./Level_800/problem%201903A_Halloumi_Boxes%20.java) |
 | 61 | Xenia and Ringroad      |1000 | [link of the problem](https://codeforces.com/problemset/problem/339/B) | [MyCode](./Level_1000/problem%20339B_Xenia_and_Ringroad%20.java) |
-| 62 | Cut Ribbon      |1300 | [link of the problem](https://codeforces.com/problemset/problem/189/A) | [MyCode](./Level_1300/problem%20189A_Cut_Ribbon%20.java) |
 | 63 | Remove Smallest      |800 | [link of the problem](https://codeforces.com/problemset/problem/1399/A) | [MyCode](./Level_800/problem%201399A_Remove_Smallest%20.java) |
 | 64 | How Much Does Daytona Cost      |800 | [link of the problem](https://codeforces.com/problemset/problem/1878/A) | [MyCode](./Level_800/problem%201878A_How_Much_Does_Daytona_Cost%20.java) |
 | 65 | Array Coloring      |800 | [link of the problem](https://codeforces.com/problemset/problem/1857/A) | [MyCode](./Level_800/problem%201857A_Array_Coloring%20.java) |
@@ -80,7 +75,6 @@ Refine: Improve the code and add comments
 | 70 | Borze      |800 | [link of the problem](https://codeforces.com/problemset/problem/32/B) | [MyCode](./Level_800/problem%2032B_Borze%20.java) |
 | 71 | Raising Bacteria      |1000 | [link of the problem](https://codeforces.com/problemset/problem/579/A) | [MyCode](./Level_1000/problem%20579A_Raising_Bacteria%20.java) |
 | 72 | Line Trip     |800 | [link of the problem](https://codeforces.com/problemset/problem/1901/A) | [MyCode](./Level_800/problem%201901A_Line_Trip%20.java) |
-| 73 | Cheap Travel    |1200 | [link of the problem](https://codeforces.com/problemset/problem/466/A) | [MyCode](./Level_1200/problem%20466A_Cheap_Travel%20.java) |
 | 74 | Prepend and Append    |800 | [link of the problem](https://codeforces.com/problemset/problem/1791/C) | [MyCode](./Level_800/problem%201791C_Prepend_and_Append%20.java) |
 | 75 | Game With Sticks       | 900 | [link of the problem](https://codeforces.com/problemset/problem/451/A)  | [MyCode](./Level_900/problem%20451A_Game_With_Sticks%20.java)        |
 | 76 | Holiday Of Equality       | 800 | [link of the problem](https://codeforces.com/problemset/problem/758/A)  | [MyCode](./Level_800/problem%20758A_Holiday_Of_Equality%20.java)        |
@@ -90,12 +84,10 @@ Refine: Improve the code and add comments
 | 81 | Multiply by 2, divide by 6       | 900 | [link of the problem](https://codeforces.com/problemset/problem/1374/B)  | [MyCode](./Level_900/problem%201374B_Multiply_by2_divide_by6%20.java)  |
 | 83 | Creating Words       | 800 | [link of the problem](https://codeforces.com/problemset/problem/1985/A)  | [MyCode](./Level_800/problem%201985A_Creating_Words%20.java)        |
 | 84 | Target Practice       | 800 | [link of the problem](https://codeforces.com/problemset/problem/1873/C)  | [MyCode](./Level_800/problem%201873C_Target_Practice%20.java)        |
-| 85 | Chewbaсca and Number     | 1200 | [link of the problem](https://codeforces.com/problemset/problem/514/A)  | [MyCode](./Level_1200/problem%20514A_Chewbaсca_and_Number%20.java)        |
 | 86 | Short Sort       | 800 | [link of the problem](https://codeforces.com/problemset/problem/1873/A)  | [MyCode](./Level_800/problem%201873A_Short_Sort%20.java)        |
 | 87 | Team Olympiad       | 800 | [link of the problem](https://codeforces.com/problemset/problem/490/A)  | [MyCode](./Level_800/problem%20490A_Team_Olympiad%20.java)        |
 | 88 | Love Story       | 800 | [link of the problem](https://codeforces.com/problemset/problem/1829/A)  | [MyCode](./Level_800/problem%201829A_Love_Story%20.java)        |
 | 89 | Design Tutorial      | 800 | [link of the problem](https://codeforces.com/problemset/problem/472/A)  | [MyCode](./Level_800/problem%20472A_Design_Tutorial%20.java)        |
-| 90 | K-th Not Divisible by n      | 1200 | [link of the problem](https://codeforces.com/problemset/problem/1352/C)  | [MyCode](./Level_1200/problem%201352C_K-th_Not_Divisible_by_n%20.java)        |
 | 91 | Die Roll     | 800 | [link of the problem](https://codeforces.com/problemset/problem/9/A)  | [MyCode](./Level_800/problem%209A_Die_Roll%20.java)        |
 | 92 | Stair, Peak, or Neither?     | 800 | [link of the problem](https://codeforces.com/problemset/problem/1950/A)  | [MyCode](./Level_800/problem%201950A_Stair_Peak_Neither%20.java)        |
 | 93 | Football     | 1000 | [link of the problem](https://codeforces.com/problemset/problem/43/A)  | [MyCode](./Level_1000/problem%2043A_Football%20.java)        |
@@ -108,7 +100,6 @@ Refine: Improve the code and add comments
 | 100 | Mishka and Game  | 800 | [link of the problem](https://codeforces.com/problemset/problem/703/A)  | [MyCode](./Level_800/problem%20703A_Mishka_and_Game%20.java)        |
 | 101 | Panoramix's Prediction  | 800 | [link of the problem](https://codeforces.com/problemset/problem/80/A)  | [MyCode](./Level_800/problem%2080A_Panoramix's_Prediction%20.java)        |
 | 102 | Sale  | 900 | [link of the problem](https://codeforces.com/problemset/problem/34/B)  | [MyCode](./Level_900/problem%2034B_Sale%20.java)   |
-| 103 | Same Differences  | 1200 | [link of the problem](https://codeforces.com/problemset/problem/1520/D)  | [MyCode](./Level_1200/problem%201520D_Same_Differences%20.java)        |
 | 104 | Black Square  | 800 | [link of the problem](https://codeforces.com/problemset/problem/431/A)  | [MyCode](./Level_800/problem%20431A_Black_Square%20.java)        |
 | 105 | Spell Check  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1722/A)  | [MyCode](./Level_800/problem%201722A_Spell_Check%20.java)        |
 | 106 | Balanced Array  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1343/B)  | [MyCode](./Level_800/problem%201343B_Balanced_Array%20.java)        |
@@ -117,5 +108,4 @@ Refine: Improve the code and add comments
 | 109 | Ilya and Bank Account  | 900 | [link of the problem](https://codeforces.com/problemset/problem/313/A)  | [MyCode](./Level_900/problem%20313A_Ilya_and_Bank_Account%20.java)        |
 | 110 | Even Array  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1367/B)  | [MyCode](./Level_800/problem%201367B_Even_Array%20.java)        |
 | 111 | Required Remainder  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1374/A)  | [MyCode](./Level_800/problem%201374A_Required_Remainder%20.java)        |
-| 112 |  Worms  | 1200 | [link of the problem](https://codeforces.com/problemset/problem/474/B)  | [MyCode](./Level_1200/problem%20474B_Worms%20.java)        |
 | 113 |  Vanya and Cubes  | 800 | [link of the problem](https://codeforces.com/problemset/problem/492/A)  | [MyCode](./Level_800/problem%20492A_Vanya_and_Cubes%20.java)        |
