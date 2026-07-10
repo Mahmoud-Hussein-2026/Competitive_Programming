@@ -1,13 +1,12 @@
 # Competitive_Programming
 ## Hi, I'm Mahmoud 👋
-🎓 Informatics Engineering student — Damascus 
-my solutions for codeforces problems using  java , 
-* My Strategy Analyze :*
-Read carefully and understand the limits.
-Plan: Find the logic before writing code.
-Code: Write clean and efficient solutions.
-Test: Check all cases to avoid errors.
-Refine: Improve the code and add comments
+* 🎓 Informatics Engineering student — Damascus , these my solutions for codeforces problems using  java . 
+## My Strategy Analyze :
+* Read : carefully and understand the limits.
+* Plan : Find the logic before writing code.
+* Code : Write clean and efficient solutions.
+* Test : Check all cases to avoid errors.
+* Refine : Improve the code and add comments
 ## 🏆 Solved Problems Index   
 | # | Problem Name             |Level|                         Links                               |                    My Solution                    |
 |---|--------------------------|-----|                     -----------                          |              ----------|
