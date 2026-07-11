@@ -20,7 +20,8 @@
 [LinkedIn](https://linkedin.com/in/mahmoud-hussein-dev)
 ----
 ## 📊 My Competitive Programming Stats
-[![Codeforces Stats](https://cf-readme-stats.vercel.app/api?username=uyfvhiyfv4577&theme=dark)](https://codeforces.com/profile/uyfvhiyfv4577)
+<img src="https://cf-readme-stats.vercel.app/api?username=uyfvhiyfv4577&theme=dark" alt="Codeforces Stats" />
 ----
-## 📊 My GitHub Stats
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Hussein-2026&show_icons=true&theme=radical)
+## 📈 My GitHub Stats
+<img src="https://github-readme-stats.vercel.com/api?username=Mahmoud-Hussein-2026&show_icons=true&theme=dark" alt="Mahmoud's GitHub Stats" />
+----
