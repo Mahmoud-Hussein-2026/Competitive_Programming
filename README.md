@@ -17,7 +17,7 @@
 
 Here you can find all my solutions categorized by Codeforces problem ratings (Levels). Each directory contains my Java solutions along with a dedicated description file:
 
-*    **[Codeforces Level 800 Solutions](./Level_1000/README_800.md)** — Solutions for problems rated 800.
+*    **[Codeforces Level 800 Solutions](./Level_800/README_800.md)** — Solutions for problems rated 800.
 *    **[Codeforces Level 900 Solutions](./Level_900/README_900.md)** — Solutions for problems rated 900.
 *    **[Codeforces Level 1000 Solutions](./Level_1000/README_1000.md)** — Solutions for problems rated 1000.
 *    **[Codeforces Level 1100 Solutions](./Level_1100/README_1100.md)** — Solutions for problems rated 1100
