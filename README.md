@@ -27,14 +27,14 @@ Here you can find all my solutions categorized by Codeforces problem ratings (Le
 *    **[Codeforces Level 1500 Solutions](./Level_1500/README_1500.md)** — Solutions for problems rated 1500.
 ----
 ## 📫 Connect with me
-[LinkedIn](https://linkedin.com/in/mahmoud-hussein-dev)
-## 📊 My Competitive Programming Stats
 
-![Codeforces Stats](https://cf-readme-stats.vercel.app/api?username=YOUR_CF_HANDLE&theme=dark)
+[My personal account on LinkedIn](https://linkedin.com/in/mahmoud-hussein-dev)
 
-## 📈 My GitHub Stats
+### 📊 My Competitive Programming Stats
+
+![Codeforces Stats](https://cf-readme-stats.vercel.app/api?username=uyfvhiyfv4577&theme=dark)
+
+### 📈 My GitHub Stats
 
 ![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Hussein-2026&show_icons=true&theme=dark)
-
-
 
