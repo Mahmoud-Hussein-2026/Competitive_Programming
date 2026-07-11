@@ -2,7 +2,8 @@
 ----
 ## Hi, I'm Mahmoud 👋
 * 🎓 Informatics Engineering student — Damascus .
-* Welcome to my competitive programming repository! Here, I document my solutions to various algorithmic challenges, primarily from *Codeforces* .
+* Welcome to my competitive programming repository!
+* Here, I document my solutions to various algorithmic challenges, primarily from *Codeforces* .
 * My goal is not just to solve problems, but to write clean, optimized, and well-documented code.
  ----
 ## My Strategy Analyze :
@@ -29,12 +30,3 @@ Here you can find all my solutions categorized by Codeforces problem ratings (Le
 ## 📫 Connect with me
 
 [My personal account on LinkedIn](https://linkedin.com/in/mahmoud-hussein-dev)
-
-### 📊 My Competitive Programming Stats
-
-![Codeforces Stats](https://cf-readme-stats.vercel.app/api?username=uyfvhiyfv4577&theme=dark)
-
-### 📈 My GitHub Stats
-
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Hussein-2026&show_icons=true&theme=dark)
-
