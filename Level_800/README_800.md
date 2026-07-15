@@ -78,3 +78,4 @@
 | 76 | Required Remainder  | 800 | [link of the problem](https://codeforces.com/problemset/problem/1374/A)  | [MyCode](./problem%201374A_Required_Remainder%20.java)        |
 | 77 |  Vanya and Cubes  | 800 | [link of the problem](https://codeforces.com/problemset/problem/492/A)  | [MyCode](./problem%20492A_Vanya_and_Cubes%20.java)        |
 | 78 |  Good Kid  | 800 | [link problem 1873B](https://codeforces.com/problemset/problem/1873/B)  | [MyCode](./problem_1873B_Good_Kid.java)        |
+| 79 |  Don't Try to Count  | 800 | [link problem 1881A](https://codeforces.com/problemset/problem/1881/A)  | [MyCode](./problem_1881A_Don't_Try_to_Count.java)        |
