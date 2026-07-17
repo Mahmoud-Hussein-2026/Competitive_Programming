@@ -80,3 +80,4 @@
 | 78 |  Good Kid  | 800 | [link problem 1873B](https://codeforces.com/problemset/problem/1873/B)  | [MyCode](./problem_1873B_Good_Kid.java)        |
 | 79 |  Don't Try to Count  | 800 | [link problem 1881A](https://codeforces.com/problemset/problem/1881/A)  | [MyCode](./problem_1881A_Don't_Try_to_Count.java)        |
 | 80 |  Square String ?  | 800 | [link problem 1619A](https://codeforces.com/problemset/problem/1619/A)  | [MyCode](./problem_1619A_Square_String.java)        |
+| 81 | Boring Apartments  | 800 | [link problem 1433A](https://codeforces.com/problemset/problem/1433/A)  | [MyCode](./problem_1433A_Boring_Apartments.java)        |
