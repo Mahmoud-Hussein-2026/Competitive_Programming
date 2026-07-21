@@ -82,3 +82,4 @@
 | 80 |  Square String ?  | 800 | [link problem 1619A](https://codeforces.com/problemset/problem/1619/A)  | [MyCode](./problem_1619A_Square_String.java)        |
 | 81 | Boring Apartments  | 800 | [link problem 1433A](https://codeforces.com/problemset/problem/1433/A)  | [MyCode](./problem_1433A_Boring_Apartments.java)        |
 | 82 | Vlad and the Best of Five  | 800 | [link problem 1926A](https://codeforces.com/problemset/problem/1926/A)  | [MyCode](./problem_1926A_Vlad_and_the_Best_of_Five.java)        |
+| 83 | Easy Problem  | 800 | [link problem 2044A](https://codeforces.com/problemset/problem/2044/A)  | [MyCode](./problem_2044A_Easy_Problem.java)        |
