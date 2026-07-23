@@ -84,3 +84,4 @@
 | 82 | Vlad and the Best of Five  | 800 | [link problem 1926A](https://codeforces.com/problemset/problem/1926/A)  | [MyCode](./problem_1926A_Vlad_and_the_Best_of_Five.java)        |
 | 83 | Easy Problem  | 800 | [link problem 2044A](https://codeforces.com/problemset/problem/2044/A)  | [MyCode](./problem_2044A_Easy_Problem.java)        |
 | 84 | Increasing  | 800 | [link problem 1742B](https://codeforces.com/problemset/problem/1742/B)  | [MyCode](./problem_1742B_Increasing.java)   |
+| 85 | Jagged Swaps  | 800 | [link problem 1896A](https://codeforces.com/problemset/problem/1896/A)  | [MyCode](./problem_1896A_Jagged_Swaps.java)   |
