@@ -87,3 +87,4 @@
 | 85 | Jagged Swaps  | 800 | [link problem 1896A](https://codeforces.com/problemset/problem/1896/A)  | [MyCode](./problem_1896A_Jagged_Swaps.java)   |
 | 86 | Minutes Before the New Year  | 800 | [link problem 1283A](https://codeforces.com/problemset/problem/1283/A)  | [MyCode](./problem_1283A_Minutes_Before_the_New_Year.java)   |
 | 87 | Equal Candies  | 800 | [link problem 1676B](https://codeforces.com/problemset/problem/1676/B)  | [MyCode](./problem_1676B_Equal_Candies.java)   |
+| 88 | A+B?  | 800 | [link problem 1772A](https://codeforces.com/problemset/problem/1772/A)  | [MyCode](./problem_1772A_A+B.java)   |
