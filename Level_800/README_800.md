@@ -88,3 +88,4 @@
 | 86 | Minutes Before the New Year  | 800 | [link problem 1283A](https://codeforces.com/problemset/problem/1283/A)  | [MyCode](./problem_1283A_Minutes_Before_the_New_Year.java)   |
 | 87 | Equal Candies  | 800 | [link problem 1676B](https://codeforces.com/problemset/problem/1676/B)  | [MyCode](./problem_1676B_Equal_Candies.java)   |
 | 88 | A+B?  | 800 | [link problem 1772A](https://codeforces.com/problemset/problem/1772/A)  | [MyCode](./problem_1772A_A+B.java)   |
+| 89 | Doremy's Paint 3  | 800 | [link problem 1890A](https://codeforces.com/problemset/problem/1890/A)  | [MyCode](./problem_1890A_Doremy's_Paint_3.java)   |
