@@ -91,3 +91,4 @@
 | 89 | Doremy's Paint 3  | 800 | [link problem 1890A](https://codeforces.com/problemset/problem/1890/A)  | [MyCode](./problem_1890A_Doremy's_Paint_3.java)   |
 | 90 | Vasilije in Cacak  | 800 | [link problem 1878C](https://codeforces.com/problemset/problem/1878/C)  | [MyCode](./problem_1878C_Vasilije_in_Cacak.java)   |
 | 91 | Square?  | 800 | [link problem 2167A](https://codeforces.com/problemset/problem/2167/A)  | [MyCode](./problem_2167A_Square.java)   |
+| 92 | Plus One on the Subset?  | 800 | [link problem 1624A](https://codeforces.com/problemset/problem/1624/A)  | [MyCode](./problem_1624A_Plus_One_on_the_Subset.java)   |
