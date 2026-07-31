@@ -14,3 +14,4 @@
 | 12 | Ilya and Bank Account  | 900 | [link problem 313A](https://codeforces.com/problemset/problem/313/A)  | [MyCode](./problem%20313A_Ilya_and_Bank_Account%20.java)  |
 | 13 |  Balanced Round  | 900 | [link problem 1850D](https://codeforces.com/problemset/problem/1850/D)| [MyCode](./problem_1850D_Balanced_Round.java)  |
 | 14 |   Chemistry  | 900 | [link problem 1883B](https://codeforces.com/problemset/problem/1883/B)| [MyCode](./problem_1883B_Chemistry.java)  |
+| 15 |   Odd Queries  | 900 | [link problem 1807D](https://codeforces.com/problemset/problem/1807/D)| [MyCode](./problem_1807D_Odd_Queries.java)  |
