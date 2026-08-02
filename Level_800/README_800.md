@@ -93,3 +93,4 @@
 | 91 | Square?  | 800 | [link problem 2167A](https://codeforces.com/problemset/problem/2167/A)  | [MyCode](./problem_2167A_Square.java)   |
 | 92 | Plus One on the Subset?  | 800 | [link problem 1624A](https://codeforces.com/problemset/problem/1624/A)  | [MyCode](./problem_1624A_Plus_One_on_the_Subset.java)   |
 | 93 | Fair Division  | 800 | [link problem 1472B](https://codeforces.com/problemset/problem/1472/B)  | [MyCode](./problem_1472B_Fair_Division.java)   |
+| 94 | My First Sorting Problem	  | 800 | [link problem 1971A](https://codeforces.com/problemset/problem/1971/A)  | [MyCode](./problem_1971A_My_First_Sorting_Problem.java)   |
