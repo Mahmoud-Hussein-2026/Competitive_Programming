@@ -95,3 +95,4 @@
 | 93 | Fair Division  | 800 | [link problem 1472B](https://codeforces.com/problemset/problem/1472/B)  | [MyCode](./problem_1472B_Fair_Division.java)   |
 | 94 | My First Sorting Problem	  | 800 | [link problem 1971A](https://codeforces.com/problemset/problem/1971/A)  | [MyCode](./problem_1971A_My_First_Sorting_Problem.java)   |
 | 95 | Desorting	  | 800 | [link problem 1853A](https://codeforces.com/problemset/problem/1853/A)  | [MyCode](./problem_1853A_Desorting.java)   |
+| 96 | Sequence Game	  | 800 | [link problem 1862B](https://codeforces.com/problemset/problem/1862/B)  | [MyCode](./problem_11862B_Sequence_Game.java)   |
