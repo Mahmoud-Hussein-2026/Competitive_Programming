@@ -97,3 +97,4 @@
 | 95 | Desorting	  | 800 | [link problem 1853A](https://codeforces.com/problemset/problem/1853/A)  | [MyCode](./problem_1853A_Desorting.java)   |
 | 96 | Sequence Game	  | 800 | [link problem 1862B](https://codeforces.com/problemset/problem/1862/B)  | [MyCode](./problem_1862B_Sequence_Game.java)   |
 | 97 | Do Not Be Distracted	  | 800 | [link problem 1520A](https://codeforces.com/problemset/problem/1520/A)  | [MyCode](./problem_1520A_Do_Not_Be_Distracted.java)   |
+| 98 | Two Arrays And Swaps	  | 800 | [link problem 1353B](https://codeforces.com/problemset/problem/1353/B)  | [MyCode](./problem_1353B_Two-Arrays_And_Swaps.java)   |
