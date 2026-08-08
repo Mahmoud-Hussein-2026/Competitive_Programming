@@ -15,3 +15,4 @@
 | 13 |  Balanced Round  | 900 | [link problem 1850D](https://codeforces.com/problemset/problem/1850/D)| [MyCode](./problem_1850D_Balanced_Round.java)  |
 | 14 |   Chemistry  | 900 | [link problem 1883B](https://codeforces.com/problemset/problem/1883/B)| [MyCode](./problem_1883B_Chemistry.java)  |
 | 15 |   Odd Queries  | 900 | [link problem 1807D](https://codeforces.com/problemset/problem/1807/D)| [MyCode](./problem_1807D_Odd_Queries.java)  |
+| 16 |  Yet Another Constructive  | 900 | [link problem 2247B](https://codeforces.com/problemset/problem/2247/B)| [MyCode](./problem_2247B_Yet_Another_Constructive.java)  |
