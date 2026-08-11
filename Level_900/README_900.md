@@ -18,3 +18,4 @@
 | 16 |  Yet Another Constructive  | 900 | [link problem 2247B](https://codeforces.com/problemset/problem/2247/B)| [MyCode](./problem_2247B_Yet_Another_Constructive.java)  |
 | 17 | ezraft and Array  | 900 | [link problem 2246B](https://codeforces.com/problemset/problem/2246/B)| [MyCode](./problem_2246B_ezraft_and_Array.java)  |
 | 18 | Crimson Triples  | 900 | [link problem 2238B](https://codeforces.com/problemset/problem/2238/B)| [MyCode](./problem_2238B_Crimson_Triples.java)  |
+| 19 | Different Distances  | 900 | [link problem 2233B](https://codeforces.com/problemset/problem/2233/B)| [MyCode](./problem_2233B_Different_Distances.java)  |
