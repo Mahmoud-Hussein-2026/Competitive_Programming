@@ -19,3 +19,4 @@
 | 17 | ezraft and Array  | 900 | [link problem 2246B](https://codeforces.com/problemset/problem/2246/B)| [MyCode](./problem_2246B_ezraft_and_Array.java)  |
 | 18 | Crimson Triples  | 900 | [link problem 2238B](https://codeforces.com/problemset/problem/2238/B)| [MyCode](./problem_2238B_Crimson_Triples.java)  |
 | 19 | Different Distances  | 900 | [link problem 2233B](https://codeforces.com/problemset/problem/2233/B)| [MyCode](./problem_2233B_Different_Distances.java)  |
+| 20 | Cake Leveling  | 900 | [link problem 2232B](https://codeforces.com/problemset/problem/2232/B)| [MyCode](./problem_2232B_Cake_Leveling.java)  |
