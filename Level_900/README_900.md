@@ -25,3 +25,4 @@
 | 23 | Everything Everywhere  | 900 | [link problem 2226B](https://codeforces.com/problemset/problem/2226/B)| [MyCode](./problem_2226B_Everything_Everywhere.java)  |
 | 24 | Alternating String  | 900 | [link problem 2225B](https://codeforces.com/problemset/problem/2225/B)| [MyCode](./problem_2225B_Alternating_String.java)  |
 | 25 | Course Wishes  | 900 | [link problem 2216A](https://codeforces.com/problemset/problem/2216/A)| [MyCode](./problem_2216A_Course_Wishes.java)  |
+| 26 | Simply Sitting on Chairs  | 900 | [link problem 2210B](https://codeforces.com/problemset/problem/2210/B)| [MyCode](./problem_2210B_Simply_Sitting_on_Chairs.java)  |
