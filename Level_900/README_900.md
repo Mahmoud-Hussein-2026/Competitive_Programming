@@ -28,3 +28,4 @@
 | 26 | Simply Sitting on Chairs  | 900 | [link problem 2210B](https://codeforces.com/problemset/problem/2210/B)| [MyCode](./problem_2210B_Simply_Sitting_on_Chairs.java)  |
 | 27 | Array  | 900 | [link problem 2209B](https://codeforces.com/problemset/problem/2209/B)| [MyCode](./problem_2209B_Array.java)  |
 | 28 | Specialty String  | 900 | [link problem 2200C](https://codeforces.com/problemset/problem/2200/C)| [MyCode](./problem_2200C_Specialty_String.java)  |
+| 29 | Heapify 1  | 900 | [link problem 2195B](https://codeforces.com/problemset/problem/2195/B)| [MyCode](./problem_2195B_Heapify_1.java)  |
