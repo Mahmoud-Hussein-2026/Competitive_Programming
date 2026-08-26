@@ -6,5 +6,5 @@
 | 4 | K-th Not Divisible by n | 1200 | [link problem 1352C](https://codeforces.com/problemset/problem/1352/C)  | [MyCode](./problem%201352C_K-th_Not_Divisible_by_n%20.java)  |
 | 5 | Same Differences  | 1200 | [link problem 1520D](https://codeforces.com/problemset/problem/1520/D)  | [MyCode](./problem%201520D_Same_Differences%20.java) |
 | 6 |  Worms  | 1200 | [link problem 474B](https://codeforces.com/problemset/problem/474/B)  | [MyCode](./problem%20474B_Worms%20.java)        |
-| 7 |  BerSU Ball  | 1200 | [link problem 489B](https://codeforces.com/problemset/problem/489/B)  | [MyCode](./problem%489B_BerSU_Ball.java)        |
+| 7 |  BerSU Ball  | 1200 | [link problem 489B](https://codeforces.com/problemset/problem/489/B)  | [MyCode](./problem_489B_BerSU_Ball.java)        |
 
