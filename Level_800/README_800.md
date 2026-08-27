@@ -101,3 +101,4 @@
 | 99 | Polycarp and Coins	  | 800 | [link problem 1551A](https://codeforces.com/problemset/problem/1551/A)  | [MyCode](./problem_1551A_Polycarp_and_Coins.java)   |
 | 100 | United We Stand	  | 800 | [link problem 1859A](https://codeforces.com/problemset/problem/1859/A)  | [MyCode](./problem_1859A_United_We_Stand.java)   |
 | 101 | Grasshopper on a Line	  | 800 | [link problem 1837A](https://codeforces.com/problemset/problem/1837/A)  | [MyCode](./problem_1837A_Grasshopper_on_a_Line.java)   |
+| 102 | Legs	  | 800 | [link problem 1996A](https://codeforces.com/problemset/problem/1996/A)  | [MyCode](./problem_1996A_Legs.java)   |
