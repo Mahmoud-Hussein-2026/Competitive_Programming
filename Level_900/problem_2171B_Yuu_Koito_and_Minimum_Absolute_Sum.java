@@ -4,7 +4,8 @@ import java.util.Scanner;
 * Faculty : Informatics Engineering .
 * Author : Mahmoud Hussein .
 * problem : 2171B - Yuu Koito and Minimum Absolute Sum .
-* Logic : 
+* Logic : The sum of differences simplifies to |a[n-1] - a[0]|,
+* so we minimize it by matching/zeroing boundary elements and setting inner missing elements to 0 for lexicographical order.
 * Site : Codeforces .
 */
 public class Main {
