@@ -32,3 +32,4 @@
 | 30 | Shifted MEX  | 900 | [link problem 2185C](https://codeforces.com/problemset/problem/2185/C)| [MyCode](./problem_2185C_Shifted_MEX.java)  |
 | 31 | Impost or Sus  | 900 | [link problem 2178B](https://codeforces.com/problemset/problem/2178/B)| [MyCode](./problem_2178B_Impost_or_Sus.java)  |
 | 32 | Yuu Koito and Minimum Absolute Sum  | 900 | [link problem 2171B](https://codeforces.com/problemset/problem/2171/B)| [MyCode](./problem_2171B_Yuu_Koito_and_Minimum_Absolute_Sum.java)  |
+| 33 | Alice and Bob  | 900 | [link problem 2169A](https://codeforces.com/problemset/problem/2169/A)| [MyCode](./problem_2169A_Alice_and_Bob.java)  |
