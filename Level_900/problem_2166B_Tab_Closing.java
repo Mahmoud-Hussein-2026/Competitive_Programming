@@ -4,24 +4,28 @@ import java.util.Scanner;
 * Faculty : Informatics Engineering .
 * Author : Mahmoud Hussein .
 * problem : 2166B - Tab Closing .
-* Logic : 
+* Logic : Calculates the threshold of individual tab closes (a / b) 
+* to determine if performing all manual closes is faster or equal to using a single close-all operation.
 * Site : Codeforces .
 */
 public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int t = in.nextInt();
-        while (t-- > 0) {
-            long a = in.nextLong();
-            long b = in.nextLong();
-            long n = in.nextLong();
-            if (a >= n * b) {
-                System.out.println(1);
+        int testCases = in.nextInt();
+        StringBuilder resultBuilder = new StringBuilder();
+        while (testCases-- > 0) {
+            long costPerTab = in.nextLong();
+            long closeAllCost = in.nextLong();
+            long totalTabs = in.nextLong();
+            long breakEvenTabs = costPerTab / closeAllCost;
+            if ( costPerTab == closeAllCost || totalTabs <= breakEvenTabs) {
+                resultBuilder.append(1).append('\n');
             }
             else {
-                System.out.println(2);
+                resultBuilder.append(2).append('\n');
             }
         }
+        System.out.print( resultBuilder );
         in.close();
     }
 }
