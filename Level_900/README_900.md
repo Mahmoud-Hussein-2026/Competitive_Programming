@@ -34,3 +34,4 @@
 | 32 | Yuu Koito and Minimum Absolute Sum  | 900 | [link problem 2171B](https://codeforces.com/problemset/problem/2171/B)| [MyCode](./problem_2171B_Yuu_Koito_and_Minimum_Absolute_Sum.java)  |
 | 33 | Alice and Bob  | 900 | [link problem 2169A](https://codeforces.com/problemset/problem/2169/A)| [MyCode](./problem_2169A_Alice_and_Bob.java)  |
 | 34 | Tab Closing  | 900 | [link problem 2166B](https://codeforces.com/problemset/problem/2166/B)| [MyCode](./problem_2166B_Tab_Closing.java)  |
+| 35 | Expansion Plan 2  | 900 | [link problem 2157B](https://codeforces.com/problemset/problem/2157/B)| [MyCode](./problem_2157B_Expansion_Plan.java)  |
