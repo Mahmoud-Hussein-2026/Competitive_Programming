@@ -38,3 +38,4 @@
 | 36 | MEX rose  | 900 | [link problem 2149C](https://codeforces.com/problemset/problem/2149/C)| [MyCode](./problem_2149C_MEX_rose.java)  |
 | 37 | Pacer  | 900 | [link problem 2148C](https://codeforces.com/problemset/problem/2148/C)| [MyCode](./problem_2148C_Pacer.java)  |
 | 38 |  Another Divisibility  | 900 | [link problem 2140B](https://codeforces.com/problemset/problem/2140/B)| [MyCode](./problem_2140B_Another_Divisibility.java)  |
+| 39 | Fun Permutation  | 900 | [link problem 2137B](https://codeforces.com/problemset/problem/2137/B)| [MyCode](./problem_2137B_Fun_Permutation.java)  |
