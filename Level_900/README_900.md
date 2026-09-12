@@ -42,3 +42,4 @@
 | 40 | Like the Bitset  | 900 | [link problem 2136B](https://codeforces.com/problemset/problem/2136/B)| [MyCode](./problem_2136B_Like_the_Bitset.java)  |
 | 41 | Carrot Chopdown  | 900 | [link problem 2258B1](https://codeforces.com/problemset/problem/2258/B1)| [MyCode](./problem_2258B1_Carrot_Chopdown.java)  |
 | 42 | The Secret Number  | 900 | [link problem 2132B](https://codeforces.com/problemset/problem/2132/B)| [MyCode](./problem_2132B_The_Secret_Number.java)  |
+| 43 | Left and Down  | 900 | [link problem 2125B](https://codeforces.com/problemset/problem/2125/B)| [MyCode](./problem_2125B_Left_and_Down.java)  |
