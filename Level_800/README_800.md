@@ -103,3 +103,4 @@
 | 101 | Grasshopper on a Line	  | 800 | [link problem 1837A](https://codeforces.com/problemset/problem/1837/A)  | [MyCode](./problem_1837A_Grasshopper_on_a_Line.java)   |
 | 102 | Legs	  | 800 | [link problem 1996A](https://codeforces.com/problemset/problem/1996/A)  | [MyCode](./problem_1996A_Legs.java)   |
 | 103 | Goals of Victory	  | 800 | [link problem 1877A](https://codeforces.com/problemset/problem/1877/A)  | [MyCode](./problem_1877A_Goals_of_Victory.java)   |
+| 104 | One and Two	  | 800 | [link problem 1788A](https://codeforces.com/problemset/problem/1788/A)  | [MyCode](./problem_1788A_One_and_Two.java)   |
